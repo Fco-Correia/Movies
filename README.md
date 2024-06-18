@@ -8,6 +8,10 @@ First, install dependencies:
 npm install
 ```
 
+```bash
+npm install axios
+```
+
 Run the development server:
 
 ```bash
