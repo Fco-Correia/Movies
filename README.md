@@ -6,7 +6,7 @@ First, install dependencies:
 
 ```bash
 npm install
-
+```
 
 Run the development server:
 
